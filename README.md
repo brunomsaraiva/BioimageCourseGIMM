@@ -24,8 +24,14 @@ Open a terminal and run:
 git clone https://github.com/brunomsaraiva/BioimageCourseGIMM.git
 ```
 
-2. Run Jupyter Lab and Open Notebook #1:
+---
+
+2. Run Jupyter Lab and Open Notebook #1:   
 - Using BAND's Jupyter Lab -> Applications -> Programming -> Jupyter Lab
+IMPORTANT: select the EuBi Course kernel
+   
+---
+   
 - Using previoysly created environment:
 ```shell
 conda activate env_name
