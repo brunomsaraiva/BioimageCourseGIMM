@@ -1,0 +1,23 @@
+name: cellpose
+dependencies:
+  - python>3.8
+  - pip
+  - pyqt=5.15.9=py311hf0fb5b6_4
+  - pyqt5-sip=12.12.2=py311hb755f60_4
+  - superqt=0.5.4=pyh9208f05_2
+  - pip:
+    - numpy>=1.20.0
+    - numba>=0.43.1
+    - scipy
+    - torch>=1.6
+    - opencv-python-headless
+    - pyqtgraph>=0.11.0rc0
+    - natsort
+    - google-cloud-storage
+    - tqdm
+    - tifffile
+    - fastremap
+    - cellpose
+    - roifile
+    
+
